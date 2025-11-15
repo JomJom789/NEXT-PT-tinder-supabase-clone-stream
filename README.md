@@ -1,16 +1,3 @@
-## 📋 Table of Contents
-
-1. [Introduction](#-introduction)
-2. [Tech Stack](#-tech-stack)
-3. [Features](#-features)
-4. [Timestamps](#-timestamps)
-5. [Quick Start](#-quick-start)
-6. [Screenshots](#-screenshots)
-7. [Deployment](#-deployment)
-8. [Useful Links](#-useful-links)
-
-
----
 
 ## ⚙️ Tech Stack
 
